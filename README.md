@@ -1,5 +1,6 @@
 # git-PSM
 Repositorio con las prácticas de Rubén Benítez Ruiz de la asignatura PSM
+
 1️⃣ Actualizar tu repositorio local con cambios del remoto
 Paso 1: Traer cambios del remoto
 git fetch origin
