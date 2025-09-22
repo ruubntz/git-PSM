@@ -9,7 +9,9 @@ git fetch origin
 Esto descarga los commits del remoto, pero no los mezcla automáticamente en tu rama local.
 
 Paso 2: Ver diferencias
+
 git status
+
 git log origin/main --oneline
 
 
